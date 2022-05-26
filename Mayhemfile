@@ -1,5 +1,5 @@
 project: rnshah9/jpeg-quantsmooth
-target: jpeg-quantsmooth
+target: jpegqs
 
 cmds:
   - cmd: /repo/jpegqs @@ out.jpg
