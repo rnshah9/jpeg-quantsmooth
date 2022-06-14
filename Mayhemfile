@@ -1,6 +1,6 @@
-project: rnshah9/jpeg-quantsmooth
+project: jpeg-quantsmooth
 target: jpegqs
 
 cmds:
-  - cmd: /repo/jpegqs @@ out.jpg
+  - cmd: /repo/jpegqs /test.jpg out.jpg
     filepath: /test.jpg
