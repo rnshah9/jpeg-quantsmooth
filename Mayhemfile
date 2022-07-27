@@ -2,5 +2,4 @@ project: jpeg-quantsmooth
 target: jpegqs
 
 cmds:
-  - cmd: /repo/jpegqs /test.jpg out.jpg
-    filepath: /test.jpg
+  - cmd: /jpegqs @@ out.jpg
